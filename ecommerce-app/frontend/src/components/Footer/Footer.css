@@ -1,0 +1,27 @@
+.footer {
+    background: #111827;
+    color: white;
+    padding: 50px 20px;
+    margin-top: 80px;
+  }
+  
+  .footer-content {
+    max-width: 1200px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .footer-links {
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+  }
+  
+  .footer-links span {
+    cursor: pointer;
+  }
+  
+  .copyright {
+    color: #9ca3af;
+  }
